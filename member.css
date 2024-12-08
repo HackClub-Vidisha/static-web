@@ -6,7 +6,7 @@
   width: 500px; 
   height: 500px; 
   transition: 200ms;
-  position: relative; /* Position the card relative to the container */
+  position: relative; /* Position the card relative to the containerA */
   margin: 50px; /* Add some margin between containers */
 }
 

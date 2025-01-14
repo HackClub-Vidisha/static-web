@@ -151,6 +151,7 @@ span {
 .home-img img:hover {
     font-size: 1.8rem;
     font-weight: 500;
+    transform: scale(1.2);
 }
 
 .social-icons a {

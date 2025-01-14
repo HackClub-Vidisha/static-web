@@ -140,8 +140,8 @@ span {
 
 .home-img img {
     position: sticky;
-    width: 32vw;
-    height: 42vw;
+    width: auto;
+    height: auto;
     border-radius: 10%;
     box-shadow: 0 0 25px solid #6f49c0;
     cursor: pointer;

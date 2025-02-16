@@ -221,4 +221,11 @@ span {
         margin-top: 4rem;
     }
 } 
-
+footer {
+    background-color: #0e0e0e;
+    color: white;
+    padding: 10px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
